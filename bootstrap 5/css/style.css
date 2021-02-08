@@ -1,0 +1,42 @@
+section{
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+header strong{
+   font-size: 24px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header ul{
+   font-size: 20px;
+   padding: 20px;
+   margin: 10px;
+}
+.container-xxl h2{
+   text-align: center;
+   padding-bottom: 20px;
+}
+
+.carousel-control-prev-icon{
+   background-image: url(../img/back.svg);
+}
+.carousel-control-next-icon{
+   background-image: url(../img/next.svg);
+}
+.carousel-control-prev{
+   left: -115px;
+}
+.carousel-control-next{
+   right: -115px;
+}
+footer{
+   padding: 25px;
+   text-align: center;
+   background-color: darkgrey;
+   font-size: 19px;
+   height: 120px;
+}
+footer p{
+   padding: 17px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 16px;
+}
